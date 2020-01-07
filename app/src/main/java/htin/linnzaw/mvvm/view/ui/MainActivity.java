@@ -1,8 +1,10 @@
-package htin.linnzaw.mvvm;
+package htin.linnzaw.mvvm.view.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import htin.linnzaw.mvvm.R;
 
 public class MainActivity extends AppCompatActivity {
 
